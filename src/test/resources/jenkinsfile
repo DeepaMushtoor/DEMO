@@ -10,7 +10,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/DeepaMushtoor/GitRepo27new.git'
+                git 'https://github.com/DeepaMushtoor/DEMO.git'
             }
         }
 
